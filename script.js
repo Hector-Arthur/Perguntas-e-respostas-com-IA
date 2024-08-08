@@ -92,7 +92,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Sobre seu estilo de jogar...";
+    caixaPerguntas.textContent = "Sobre seu estilo de jogar minecraft...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
